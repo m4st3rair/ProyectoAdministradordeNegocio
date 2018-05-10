@@ -1,0 +1,3 @@
+Nombre del Cliente $ IDCliente $ Telefono $ IDNota $ IDNota $ IDNota $ IDNota
+Nombre del Cliente $ IDCliente $ Telefono $ IDNota $ IDNota
+Nombre del Cliente $ IDCliente $ Telefono $ IDNota $ IDNota $ IDNota $ IDNota

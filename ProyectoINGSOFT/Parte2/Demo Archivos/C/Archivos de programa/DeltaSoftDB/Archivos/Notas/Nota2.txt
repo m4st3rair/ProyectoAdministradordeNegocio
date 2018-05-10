@@ -1,0 +1,14 @@
+Codigo del Cliente
+Codigo de la Nota
+Fecha de la Nota DD/MMM/YYYY
+Pago
+Total
+Liquidado true/false
+
+IDProducto $ Cantidad $ Total
+IDProducto $ Cantidad $ Total
+IDProducto $ Cantidad $ Total
+IDProducto $ Cantidad $ Total
+IDProducto $ Cantidad $ Total
+IDProducto $ Cantidad $ Total
+IDProducto $ Cantidad $ Total
