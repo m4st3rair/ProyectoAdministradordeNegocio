@@ -23,7 +23,7 @@
   <Layout>
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Component id="jTabbedPane5" min="-2" pref="1220" max="-2" attributes="0"/>
+          <Component id="jTabbedPane5" alignment="1" min="-2" pref="1220" max="-2" attributes="0"/>
       </Group>
     </DimensionLayout>
     <DimensionLayout dim="1">
@@ -50,7 +50,7 @@
               <JTabbedPaneConstraints tabName="">
                 <Property name="tabTitle" type="java.lang.String" value=""/>
                 <Property name="tabIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/1.png"/>
+                  <Image iconType="3" name="/ProyectoAdministrador/1.png"/>
                 </Property>
               </JTabbedPaneConstraints>
             </Constraint>
@@ -60,7 +60,7 @@
             <DimensionLayout dim="0">
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="1" attributes="0">
-                      <EmptySpace pref="580" max="32767" attributes="0"/>
+                      <EmptySpace pref="645" max="32767" attributes="0"/>
                       <Component id="jLabel18" min="-2" max="-2" attributes="0"/>
                       <EmptySpace min="-2" pref="171" max="-2" attributes="0"/>
                       <Component id="jLabel17" min="-2" max="-2" attributes="0"/>
@@ -71,7 +71,7 @@
             <DimensionLayout dim="1">
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="1" attributes="0">
-                      <EmptySpace pref="530" max="32767" attributes="0"/>
+                      <EmptySpace pref="535" max="32767" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
                           <Component id="jLabel17" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="jLabel18" alignment="3" min="-2" max="-2" attributes="0"/>
@@ -109,7 +109,7 @@
               <JTabbedPaneConstraints tabName="">
                 <Property name="tabTitle" type="java.lang.String" value=""/>
                 <Property name="tabIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/2.png"/>
+                  <Image iconType="3" name="/ProyectoAdministrador/2.png"/>
                 </Property>
               </JTabbedPaneConstraints>
             </Constraint>
@@ -138,7 +138,7 @@
                                           <Component id="jLabel20" min="-2" max="-2" attributes="0"/>
                                           <Component id="jLabel21" min="-2" max="-2" attributes="0"/>
                                       </Group>
-                                      <EmptySpace pref="74" max="32767" attributes="0"/>
+                                      <EmptySpace pref="139" max="32767" attributes="0"/>
                                       <Group type="103" groupAlignment="0" attributes="0">
                                           <Component id="jLabel24" min="-2" max="-2" attributes="0"/>
                                           <Component id="jLabel25" min="-2" max="-2" attributes="0"/>
@@ -193,7 +193,7 @@
                           </Group>
                           <Component id="jScrollPane2" min="-2" pref="560" max="-2" attributes="0"/>
                       </Group>
-                      <EmptySpace pref="24" max="32767" attributes="0"/>
+                      <EmptySpace pref="29" max="32767" attributes="0"/>
                   </Group>
               </Group>
             </DimensionLayout>
@@ -304,7 +304,7 @@
               <JTabbedPaneConstraints tabName="">
                 <Property name="tabTitle" type="java.lang.String" value=""/>
                 <Property name="tabIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/3.png"/>
+                  <Image iconType="3" name="/ProyectoAdministrador/3.png"/>
                 </Property>
               </JTabbedPaneConstraints>
             </Constraint>
@@ -313,7 +313,7 @@
           <Layout>
             <DimensionLayout dim="0">
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Component id="jTabbedPane1" alignment="0" max="32767" attributes="0"/>
+                  <Component id="jTabbedPane1" alignment="0" pref="1197" max="32767" attributes="0"/>
               </Group>
             </DimensionLayout>
             <DimensionLayout dim="1">
@@ -379,7 +379,7 @@
                                       </Group>
                                   </Group>
                               </Group>
-                              <EmptySpace pref="124" max="32767" attributes="0"/>
+                              <EmptySpace pref="189" max="32767" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
                                   <Component id="jButton1" min="-2" pref="333" max="-2" attributes="0"/>
                                   <Component id="jButton3" min="-2" pref="210" max="-2" attributes="0"/>
@@ -591,7 +591,7 @@
                                       <Component id="jButton5" min="-2" pref="100" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
-                              <EmptySpace pref="57" max="32767" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
                           </Group>
                       </Group>
                     </DimensionLayout>
@@ -798,7 +798,7 @@
               <JTabbedPaneConstraints tabName="">
                 <Property name="tabTitle" type="java.lang.String" value=""/>
                 <Property name="tabIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/4.png"/>
+                  <Image iconType="3" name="/ProyectoAdministrador/4.png"/>
                 </Property>
               </JTabbedPaneConstraints>
             </Constraint>
@@ -835,7 +835,7 @@
                               <EmptySpace max="-2" attributes="0"/>
                           </Group>
                           <Group type="102" alignment="1" attributes="0">
-                              <EmptySpace pref="267" max="32767" attributes="0"/>
+                              <EmptySpace pref="332" max="32767" attributes="0"/>
                               <Component id="jLabel33" min="-2" max="-2" attributes="0"/>
                               <EmptySpace min="-2" pref="232" max="-2" attributes="0"/>
                           </Group>
@@ -865,7 +865,7 @@
                           </Group>
                           <Component id="jScrollPane4" max="32767" attributes="0"/>
                       </Group>
-                      <EmptySpace pref="30" max="32767" attributes="0"/>
+                      <EmptySpace pref="35" max="32767" attributes="0"/>
                   </Group>
               </Group>
             </DimensionLayout>
@@ -948,7 +948,7 @@
               <JTabbedPaneConstraints tabName="">
                 <Property name="tabTitle" type="java.lang.String" value=""/>
                 <Property name="tabIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/5.png"/>
+                  <Image iconType="3" name="/ProyectoAdministrador/5.png"/>
                 </Property>
               </JTabbedPaneConstraints>
             </Constraint>
@@ -966,7 +966,7 @@
                       <Component id="jLabel27" min="-2" max="-2" attributes="0"/>
                       <EmptySpace min="-2" pref="77" max="-2" attributes="0"/>
                       <Component id="jLabel28" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace pref="114" max="32767" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
                       <Component id="jLabel34" min="-2" max="-2" attributes="0"/>
                       <EmptySpace min="-2" pref="299" max="-2" attributes="0"/>
                   </Group>
@@ -1017,7 +1017,7 @@
                           <Component id="jLabel35" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="jLabel36" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
-                      <EmptySpace pref="58" max="32767" attributes="0"/>
+                      <EmptySpace pref="63" max="32767" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
                           <Component id="jButton11" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="jButton12" alignment="3" min="-2" max="-2" attributes="0"/>
@@ -1144,7 +1144,7 @@
               <JTabbedPaneConstraints tabName="">
                 <Property name="tabTitle" type="java.lang.String" value=""/>
                 <Property name="tabIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/7.png"/>
+                  <Image iconType="3" name="/ProyectoAdministrador/6.png"/>
                 </Property>
               </JTabbedPaneConstraints>
             </Constraint>
@@ -1156,7 +1156,7 @@
                   <Group type="102" alignment="0" attributes="0">
                       <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
                       <Component id="jLabel37" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace pref="582" max="32767" attributes="0"/>
+                      <EmptySpace pref="647" max="32767" attributes="0"/>
                   </Group>
               </Group>
             </DimensionLayout>
@@ -1165,7 +1165,7 @@
                   <Group type="102" alignment="0" attributes="0">
                       <EmptySpace min="-2" pref="75" max="-2" attributes="0"/>
                       <Component id="jLabel37" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace pref="550" max="32767" attributes="0"/>
+                      <EmptySpace pref="555" max="32767" attributes="0"/>
                   </Group>
               </Group>
             </DimensionLayout>
@@ -1184,8 +1184,11 @@
         <Container class="javax.swing.JPanel" name="jPanel6">
           <Constraints>
             <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
-              <JTabbedPaneConstraints tabName="Recordatorios">
-                <Property name="tabTitle" type="java.lang.String" value="Recordatorios"/>
+              <JTabbedPaneConstraints tabName="">
+                <Property name="tabTitle" type="java.lang.String" value=""/>
+                <Property name="tabIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/ProyectoAdministrador/7.png"/>
+                </Property>
               </JTabbedPaneConstraints>
             </Constraint>
           </Constraints>
@@ -1193,12 +1196,37 @@
           <Layout>
             <DimensionLayout dim="0">
               <Group type="103" groupAlignment="0" attributes="0">
-                  <EmptySpace min="0" pref="1132" max="32767" attributes="0"/>
+                  <EmptySpace min="0" pref="1197" max="32767" attributes="0"/>
               </Group>
             </DimensionLayout>
             <DimensionLayout dim="1">
               <Group type="103" groupAlignment="0" attributes="0">
-                  <EmptySpace min="0" pref="642" max="32767" attributes="0"/>
+                  <EmptySpace min="0" pref="647" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel11">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="">
+                <Property name="tabTitle" type="java.lang.String" value=""/>
+                <Property name="tabIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/ProyectoAdministrador/Wrench48.png"/>
+                </Property>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="1197" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="647" max="32767" attributes="0"/>
               </Group>
             </DimensionLayout>
           </Layout>
